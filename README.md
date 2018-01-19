@@ -1,10 +1,9 @@
 # Routing w/React
-To get this blog up & running;
+To get this blog up & running:
 * git clone
 * npm install
 * npm start
 * try clicking to New Post and Home links to see the routing in action!
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
